@@ -42,9 +42,6 @@ This website is designed to simplify customer interaction and highlight the rest
 |------------|------------|--------------|
 | ![Home Page](./Images/home-preview.jpg) | ![Menu Page](./Images/menu-preview.jpg) | ![Booking Page](./Images/booking-preview.jpg) |
 
-_(Update paths to your actual image files)_
-
----
 
 ## 🛠️ Tech Stack
 
